@@ -1,0 +1,23 @@
+//单仓多条线路组合
+{
+	"urls": [
+    {"name": "⚜️码点小干货+直播源","url": "https://gitee.com/gagakuai/tvbox/raw/master/yyds.json"},    
+    {"name": "⚜️饭太硬线路+直播源","url": "http://饭太硬.top/tv"}, 
+    {"name": "⚜️肥猫线路","url": "http://肥猫.live/"}, 
+    {"name": "⚜️月光宝盒线路","url": "https://raw.gitmirror.com/guot55/YGBH/main/ygbox.json"}, 
+    {"name": "⚜️俊佬线路","url": "http://home.jundie.top:81/top98.json"}, 
+    {"name": "⚜️小米线路","url": "http://xhww.fun:63/小米/DEMO.json"}, 
+    {"name": "⚜️采妮丝线路","url": "https://tvbox.cainisi.cf"}, 
+    {"name": "⚜️荷城茶秀线路","url": "http://rihou.cc:88/荷城茶秀"}, 
+    {"name": "⚜️时光机码云稳定版","url": "https://gitee.com/bestpvp/tm/raw/master/source/stable/main.json"}, 
+    {"name": "💖BigJ精简","url": "https://download.kstore.space/download/4889/bigj235.json"},       
+    {"name": "💖CandyMuj","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj1.json"},
+    {"name":"🐼熊猫不叫猫🐼","url":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/xmbjmjk/main/xmbjm.json"},  
+    {"name": "💖4K源","url": "https://ghps.cc/https://raw.githubusercontent.com/xmbjm/vip4K/main/4Kvip.json"},    
+    {"name": "💖4K视界","url":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/apix.json"},
+    {"name": "💖4K","url":"https://ghproxy.net/https://raw.githubusercontent.com/lxhfans/TV/master/tv.txt"},
+    {"name": "💖吾爱","url": "http://52bsj.vip:98/wuai"},
+    {"name": "💖肥猫","url": "http://xn--z7x900a.live/"},
+    {"name": "💖运输车","url": "https://weixine.net/ysc.json"}
+	]
+}

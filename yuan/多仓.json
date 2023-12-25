@@ -1,0 +1,8 @@
+//仓库整合
+{
+	"storeHouse": [
+    {"sourceName": "💚常用仓库1","sourceUrl": "https://gitee.com/xiaoxu719/ying/raw/master/yuan/dancang/changyongcang.json"},
+    {"sourceName": "💛常用仓库2","sourceUrl": "https://gitee.com/xiaoxu719/ying/raw/master/yuan/dancang/changyongcang1.json"},
+    {"sourceName": "💙99仓库","sourceUrl":"https://agit.ai/hu/hcr/raw/branch/master/99668.txt"}
+  ]
+}

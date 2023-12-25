@@ -1,0 +1,21 @@
+{
+  "sites": [
+    {"key": "csp_KungFu1",
+      "name": "添加阿里云Toten",
+      "type": 3,
+      "api": "csp_KungFu1",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/alibaba.jar"},
+    {"key": "csp_KungFu2",
+     "name":"🎦阿里设置",
+     "type": 3,
+     "api": "csp_KungFu2", 
+     "searchable":1,
+     "filterable": 0, 
+     "changeable":0,
+     "jar":"https://weixine.net/alibaba.jar"}
+
+  ]
+}

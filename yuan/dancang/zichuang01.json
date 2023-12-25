@@ -1,0 +1,15 @@
+{
+"sites": [
+      {"key":"csp_Live2Vod_2","name":"💕电视直播(远程配置版)","type":3,"api":"csp_Live2Vod","searchable":0,"ext":"https://pan.shangui.cc/f/Mq7Pfy/12.txt"},
+    {
+      "key": "csp_Live2Vod_1",
+      "name": "💕电视直播",
+      "type": 3,
+      "api": "csp_Live2Vod",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "南风$https://pan.shangui.cc/f/Mq7Pfy/12.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt"
+    }
+  ]
+}

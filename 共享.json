@@ -1,0 +1,112 @@
+//全部数据来自网络和各大佬资源整合
+//软件接口完全免费，仅供学习交流，切勿付费购买，请于下载后24小时内删除
+
+//首页数据源
+{
+  "sites": [
+    {
+      "key": "api.putaozy.net",
+      "name": "成人13",
+      "type": 1,
+      "api": "http://api.putaozy.net/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "feifei67.com",
+      "name": "成人22",
+      "type": 1,
+      "api": "http://www.feifei67.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "api.maozyapi.com",
+      "name": "成人32",
+      "type": 1,
+      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "shayuapi.com",
+      "name": "成人40",
+      "type": 1,
+      "api": "https://shayuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "caiji.huakuiapi.com",
+      "name": "成人42",
+      "type": 1,
+      "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "apittzy.com",
+      "name": "成人47",
+      "type": 0,
+      "api": "https://apittzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lbapi9.com",
+      "name": "成人50",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "kkzy.me",
+      "name": "成年51",
+      "type": 0,
+      "api": "https://kkzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "sewozyapi.com",
+      "name": "成人70",
+      "type": 0,
+      "api": "https://sewozyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "api.apilyzy.com",
+      "name": "成人71",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }
+  ],
+  "lives": [
+    {
+      "group": "国冻传媒",
+      "channels": [
+        {
+          "name": "肉感精油SPA-酒井爱",
+          "urls": [
+            "https://play1.laoyacdn.com/20230917/1JDHfDOe/index.m3u8"
+          ]
+        }
+      ]
+    }
+  ]
+}
+

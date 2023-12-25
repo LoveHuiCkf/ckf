@@ -1,0 +1,19 @@
+{
+    "spider": "./YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5",
+  "sites": [
+            {"key":"4K","name":"中国蓝光网┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/xiaoxu719/ying/raw/master/%E8%93%9D%E5%85%89%E7%94%B5%E5%BD%B1%E7%BD%91/ding.json","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
+   
+      {"key":"4KHDR","name":"🚛HDR磁┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/xiaoxu719/ying/raw/master/4KHDR世界.json","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
+    {"key": "csp_XYQHiker_电影港","name":"🧲电影港(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/xiaoxu719/ying/raw/master/yuan/ceshi/%E7%94%B5%E5%BD%B1%E5%A4%A9%E5%A0%82.json"},
+    {
+      "key": "csp_XYQHiker4klg",
+      "name": "原盘4K",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E4%B8%AD%E5%9B%BD%E8%93%9D%E5%85%89%E7%BD%91.json","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+    }
+  ]
+}

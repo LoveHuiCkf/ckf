@@ -1,0 +1,16 @@
+//单仓多条线路组合
+
+{
+  "sites": [
+    {
+      "key": "🔞彩虹资源",
+      "name": "🔞彩虹资源",
+      "type": 3,
+      "api": "https://gitee.com/xiaoxu719/ying/raw/master/yuan/h/z1.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://pan.shangui.cc/f/14wbTw/cr01.json"
+    }
+  ]
+}

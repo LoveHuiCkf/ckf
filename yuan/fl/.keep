@@ -1,0 +1,19 @@
+线路可以直接调用
+
+
+直播源代码写法:
+
+"lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "channels",
+          "urls": [
+            "proxy://do=live&type=txt&ext=这里是Base64编码的地址"
+          ]
+        }
+      ]
+    }
+  ]
+  
